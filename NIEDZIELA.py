@@ -5,4 +5,4 @@ set1.add('m')
 
 print("TAK")
 
-KUPA
+print("P")
